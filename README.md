@@ -1,2 +1,1 @@
-# NavyBattle
-NavyBattle
+BattleShip
